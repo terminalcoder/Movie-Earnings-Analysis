@@ -39,7 +39,7 @@ Several patterns emerge from the analysis:
 
 ## Conclusions
 
-Three recomendations based on the above anaysis are:
+Three recomendations based on the above analysis are:
 * Movies produced should be in one of the top genres for earnings. (Publishing movies of only the highest earning genre doesn't seem like a great idea for a company's reputation; it seems dull & unexciting & may drive away business.)  
 The 5 highest earning genres are (in order of descending profitability):
     * adventure
