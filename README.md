@@ -4,7 +4,7 @@
 
 ## Overview
 
-This report analyzes available movie data to identify several aspects of successful films. The data used for this analysis includes information about movie earnings and other aspects of those films. By analyzing this information, several actionable insights about successful movies are revealed.
+This report analyzes available movie data to identify several aspects of successful films. The data used for this analysis includes information about movie earnings and other aspects of those films. By analyzing this information, several actionable insights for producing successful movies are revealed.
 
 
 ## Business Problem
