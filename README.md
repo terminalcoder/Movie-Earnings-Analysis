@@ -56,7 +56,7 @@ The top earning languages are (in descending order):
     * Hindi
     * Mandarin Chinese
     
-It should be noted that this analysis only examined what movies grossed the most money, but did not take into account that certain movies may have higher costs (e.g. production, marketing), thus reducing actual profit. Further analysis should include that information to determine which movies are truly the most profitable.Provide your conclusions about the work you've done, including any limitations or next steps.
+It should be noted that this analysis only examined what movies grossed the most money, but did not take into account that certain movies may have higher costs (e.g. production, marketing), thus reducing actual profit. Further analysis should include that information to determine which movies are truly the most profitable.
 *** 
 
 ## For More Information
@@ -67,12 +67,11 @@ For any additional questions, please contact **Elimelech Berlin, melech.berlin@g
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                                 <- The top-level README for reviewers of this project
+├── Movie Earnings Analysis Notebook.ipynb    <- Narrative documentation of analysis in Jupyter notebook
+├── Movie Earnings Analysis Presentation.pdf  <- PDF version of project presentation
+├── zippedData                                <- Both sourced externally and generated from code
+└── images                                    <- Both sourced externally and generated from code
 ```
