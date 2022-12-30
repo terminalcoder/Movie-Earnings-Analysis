@@ -60,7 +60,7 @@ It should be noted that this analysis only examined what movies grossed the most
 
 ## For More Information
 
-Please review the full analysis in [the Jupyter Notebook](./Movie-Earnings-Analysis.ipynb) or the [presentation](./Movie-Earnings-Analysis-Presentation.pdf).
+Please review the full analysis in [the Jupyter Notebook](Movie-Earnings-Analysis.ipynb) or the [presentation](Movie-Earnings-Analysis-Presentation.pdf).
 
 For any additional questions, please contact **Elimelech Berlin, melech.berlin@gmail.com**
 
