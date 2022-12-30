@@ -14,7 +14,7 @@ As not all movies are created equal, producing the 'right' type of movie can be 
 
 ## Data
 
-I will be using data from these two files: [im.db.zip](./data/zippedData/im.db.zip) and [bom.movie gross.csv.gz](./data/zippedData/bom.movie_gross.csv.gz). They contain data from the following movie data websites: [Box Office Mojo](https://www.boxofficemojo.com/ 'https://www.boxofficemojo.com/'), [IMDB](https://www.imdb.com/ 'https://www.imdb.com/'), [Rotten Tomatoes](https://www.rottentomatoes.com/ 'https://www.rottentomatoes.com/'), [The Movie DB](https://www.themoviedb.org/ 'https://www.themoviedb.org/') and [The Numbers](https://www.the-numbers.com/ 'https://www.the-numbers.com/').
+I will be using data from these two files: [im.db.zip](./data/zippedData/im.db.zip) and [bom.movie gross.csv.gz](./zippedData/bom.movie_gross.csv.gz). They contain data from the following movie data websites: [Box Office Mojo](https://www.boxofficemojo.com/ 'https://www.boxofficemojo.com/'), [IMDB](https://www.imdb.com/ 'https://www.imdb.com/'), [Rotten Tomatoes](https://www.rottentomatoes.com/ 'https://www.rottentomatoes.com/'), [The Movie DB](https://www.themoviedb.org/ 'https://www.themoviedb.org/') and [The Numbers](https://www.the-numbers.com/ 'https://www.the-numbers.com/').
 
 Included in this data is both business information and creative/content information. I will be focusing on some of the business data (earnings) but with an understanding of how it's influenced by other data (genre, language).
 
