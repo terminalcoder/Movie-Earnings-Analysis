@@ -28,7 +28,7 @@ In this report I use descriptive analytics to understand how movie genre and mov
 ## Results
 
 ![genre](images/earnings_by_genre_barh.png)  
-![languages](images/earnings_by_lang_foreign_barh.png)  
+![languages](images/mean_earnings_by_lang_foreign_barh.png)  
 ![language_count](images/under_6_count_scatter.png)
 
 Several patterns emerge from the analysis:
