@@ -157,5 +157,4 @@ __pycache__/
 *$py.class
 
 #large files
-im.db.zip
-bom.movie_gross.csv.gz
+im.db
