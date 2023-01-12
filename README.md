@@ -1,6 +1,7 @@
 # Movie Earnings Analysis
 
-**Author**: Elimelech Berlin
+**Author**: Elimelech Berlin  
+**Date:** December 2022
 
 ## Overview
 
